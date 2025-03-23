@@ -25,8 +25,6 @@ I used a few built in Java libraries, including Time, the scanner utility, and t
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
 - One day I want to implement a Machine Learning algorithm that will help the user to predict future expenses.
 - I will also build on the Variable and Periodic classes. Variable expenses include bills that you cannot precisely predict the amount, such as utility payments. I was to implement a notification system that will remind the user to record the cost of those bills.
 - Right now, everything is ran in the terminal. I want to develop a visual interface that the user can interact with, allowing them to click on values instead of entering 1 or 2 or 3 to make decisions along the program.
